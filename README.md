@@ -1,5 +1,4 @@
-A Project Management System 
-with Git Integration
+A Project Management System with Git
 ==============
 
 When using this software, please review the license found above. 
